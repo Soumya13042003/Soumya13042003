@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Soumyadip Paul.
+Hi, I'm Soumyadip Paul, an MCA student passionate about software development, database management, and problem-solving. I enjoy building web applications and continuously improving my programming skills in Java, Python, and SQL.
 
 
 ## 🌐 Socials:
